@@ -1,6 +1,6 @@
 {
   "name": "hubot-google-spreadsheet-add",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script to add value to google spreadsheet cell",
   "main": "index.js",
   "scripts": {
